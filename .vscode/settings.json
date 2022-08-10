@@ -1,0 +1,8 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///d%3A/github/NickAndCharlieBots/nickandcharliebots.net/.github/workflows/deploy.yml"
+    },
+    "cSpell.words": [
+        "Heartstopper"
+    ]
+}
