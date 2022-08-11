@@ -3,7 +3,7 @@ export default {
   description: "Heartstopper bots for Discord",
   themeConfig: {
     nav: nav(),
-    logo: { src: "/assets/logo.png", alt: "Nick and Charlie bots" },
+    logo: { src: "/images/logo.png", alt: "Nick and Charlie bots" },
     editLink: {
       pattern: "https://github.com/vuejs/vitepress/edit/main/docs/:path",
       text: "Edit this page on GitHub",

@@ -1,3 +1,12 @@
+---
+# layout: home
+hero:
+  name: Nick and Charlie Bots
+  tagline: Heartstopper bots for Discord
+  image: 
+    src: /images/logo.png
+    alt: Nick and Charlie bots
+---
 # Nick Nelson and Charlie Spring Two Heartstopper Discord bots
 
 Do you own a Discord guild that is obsessed by Heartstopper, or is your guild built around Heartstopper? Look no further! You have found the website with the best bots for your guild! You can invite them below!
