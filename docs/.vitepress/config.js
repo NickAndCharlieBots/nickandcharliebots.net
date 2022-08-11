@@ -1,6 +1,8 @@
 export default {
+  lang: 'en-US',
   title: "Nick and Charlie Bots",
   description: "Heartstopper bots for Discord",
+  lastUpdated: true,
   themeConfig: {
     nav: nav(),
     logo: { src: "/images/logo.png", alt: "Nick and Charlie bots" },
