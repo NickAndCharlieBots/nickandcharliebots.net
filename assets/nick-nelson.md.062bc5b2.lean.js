@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a as n}from"./app.519e74d7.js";const g=JSON.parse('{"title":"Nick Nelson","description":"","frontmatter":{},"headers":[],"relativePath":"nick-nelson.md","lastUpdated":1660276185000}'),a={name:"nick-nelson.md"},i=n("",6),s=[i];function r(l,c,p,d,_,m){return o(),t("div",null,s)}var k=e(a,[["render",r]]);export{g as __pageData,k as default};
