@@ -7,7 +7,7 @@ export default {
     nav: nav(),
     logo: { src: "/images/logo.png", alt: "Nick and Charlie bots" },
     editLink: {
-      pattern: "https://github.com/vuejs/vitepress/edit/main/docs/:path",
+      pattern: "https://github.com/NickAndCharlieBots/nickandcharliebots.net/edit/main/docs/:path",
       text: "Edit this page on GitHub",
     },
   },
