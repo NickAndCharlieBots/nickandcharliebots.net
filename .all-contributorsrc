@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mkevenaar",
+      "name": "Maurice Kevenaar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/834643?v=4",
+      "profile": "https://kevenaar.name/",
+      "contributions": [
+        "infra",
+        "review",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": true,
+  "projectName": "nickandcharliebots.net",
+  "projectOwner": "NickAndCharlieBots",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "none"
+}
