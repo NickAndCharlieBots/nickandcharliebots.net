@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,N as n}from"./chunks/framework.fdfd5c32.js";const g=JSON.parse('{"title":"Nick Nelson","description":"","frontmatter":{},"headers":[],"relativePath":"nick-nelson.md","lastUpdated":1678738660000}'),i={name:"nick-nelson.md"},a=n("",6),s=[a];function r(l,c,d,p,_,m){return o(),t("div",null,s)}const k=e(i,[["render",r]]);export{g as __pageData,k as default};
