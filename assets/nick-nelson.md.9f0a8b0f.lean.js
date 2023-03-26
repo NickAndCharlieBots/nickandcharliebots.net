@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,N as n}from"./chunks/framework.0799945b.js";const k=JSON.parse('{"title":"Nick Nelson","description":"","frontmatter":{},"headers":[],"relativePath":"nick-nelson.md","lastUpdated":1679769263000}'),a={name:"nick-nelson.md"},i=n("",6),s=[i];function l(r,c,p,d,_,m){return o(),t("div",null,s)}const g=e(a,[["render",l]]);export{k as __pageData,g as default};
