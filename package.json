@@ -7,7 +7,7 @@
   "author": "Maurice Kevenaar",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "1.0.0-rc.26",
+    "vitepress": "1.0.0-rc.27",
     "vue": "3.3.8"
   },
   "scripts": {
