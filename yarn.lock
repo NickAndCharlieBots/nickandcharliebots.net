@@ -631,24 +631,24 @@ rollup@^4.2.0:
     "@rollup/rollup-win32-x64-msvc" "4.9.2"
     fsevents "~2.3.2"
 
-shikiji-core@0.9.15, shikiji-core@^0.9.15:
-  version "0.9.15"
-  resolved "https://registry.yarnpkg.com/shikiji-core/-/shikiji-core-0.9.15.tgz#2732464054b7ce4ceb470cd5e3957e6c7e614b7d"
-  integrity sha512-7hqIcUKS15OMs/61Qp2GvO1fSajBB36bDqi8vexIg5kp80V6v6SGtBrlq+nLlo7erMG2d1kvIuTIq1bwKI6fEg==
+shikiji-core@0.9.17, shikiji-core@^0.9.15:
+  version "0.9.17"
+  resolved "https://registry.yarnpkg.com/shikiji-core/-/shikiji-core-0.9.17.tgz#a49a83a38149648a878ca7a00faa8fce8768f982"
+  integrity sha512-r1FWTXk6SO2aYqfWgcsJ11MuVQ1ymPSdXzJjK7q8EXuyqu8yc2N5qrQy5+BL6gTVOaF4yLjbxFjF+KTRM1Sp8Q==
 
 shikiji-transformers@^0.9.15:
-  version "0.9.15"
-  resolved "https://registry.yarnpkg.com/shikiji-transformers/-/shikiji-transformers-0.9.15.tgz#4a61e00c2a1cc6dd69eac98ac3261d19dddd2ec0"
-  integrity sha512-k0sQ6tX26/cdb8QV9CCwwr7QjRp6/AVP9C0oNIXNld3of+xCrpf74kD74piybG6vMfzBoHGsz/s60RVBJOUaYQ==
+  version "0.9.17"
+  resolved "https://registry.yarnpkg.com/shikiji-transformers/-/shikiji-transformers-0.9.17.tgz#d0bdc7d00862f8dccec830fb5d8efc41437cd430"
+  integrity sha512-2CCG9qSLS6Bn/jbeUTEuvC6YSuP8gm8VyX5VjmCvDKyCPGhlLJbH1k/kg9wfRt7cJqpYjhdMDgT5rkdYrOZnsA==
   dependencies:
-    shikiji "0.9.15"
+    shikiji "0.9.17"
 
-shikiji@0.9.15, shikiji@^0.9.15:
-  version "0.9.15"
-  resolved "https://registry.yarnpkg.com/shikiji/-/shikiji-0.9.15.tgz#227f1a2688d10589da18aae4a0a231c9d0110420"
-  integrity sha512-+inN4cN+nY7b0uCPOiqFHAk+cn2DEdM3AIQgPhAV7QKqhww/o7OGS5xvLh3SNnjke9C/HispALqGOQGYHVq7KQ==
+shikiji@0.9.17, shikiji@^0.9.15:
+  version "0.9.17"
+  resolved "https://registry.yarnpkg.com/shikiji/-/shikiji-0.9.17.tgz#6c87310a2adc97a6e40770b853472462ed8299c7"
+  integrity sha512-0z/1NfkhBkm3ijrfFeHg3G9yDNuHhXdAGbQm7tRxj4WQ5z2y0XDbnagFyKyuV2ebCTS1Mwy1I3n0Fzcc/4xdmw==
   dependencies:
-    shikiji-core "0.9.15"
+    shikiji-core "0.9.17"
 
 source-map-js@^1.0.2:
   version "1.0.2"
