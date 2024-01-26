@@ -134,9 +134,9 @@
     "@algolia/requester-common" "4.22.1"
 
 "@babel/parser@^7.23.6":
-  version "7.23.6"
-  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.23.6.tgz#ba1c9e512bda72a47e285ae42aff9d2a635a9e3b"
-  integrity sha512-Z2uID7YJ7oNvAI20O9X0bblw7Qqs8Q2hFy0R9tAfnfLkp5MW0UH9eUvnDSnFwKZ0AvgS1ucqR4KzvVHgnke1VQ==
+  version "7.23.9"
+  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.23.9.tgz#7b903b6149b0f8fa7ad564af646c4c38a77fc44b"
+  integrity sha512-9tcKgqKbs3xGJ+NtKF2ndOBBLVwPjl1SHxPQkd36r3Dlirw3xWUeGaTbqr7uGZcTaxkVNwc+03SVP7aCdWrTlA==
 
 "@docsearch/css@3.5.2", "@docsearch/css@^3.5.2":
   version "3.5.2"
@@ -633,24 +633,24 @@ rollup@^4.2.0:
     "@rollup/rollup-win32-x64-msvc" "4.9.6"
     fsevents "~2.3.2"
 
-shikiji-core@0.10.0, shikiji-core@^0.10.0:
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/shikiji-core/-/shikiji-core-0.10.0.tgz#4425f1f5055fec6759bf0c71f2cc406518fed17c"
-  integrity sha512-imG+bvRkuNlZUi2q9tMVfegRRouTpDxMFejpfF/6J+bFX3NDKtlW9T9iIAkBYnw4pcCtSwirW0AvkwlQR4wyxg==
+shikiji-core@0.10.1, shikiji-core@^0.10.0:
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/shikiji-core/-/shikiji-core-0.10.1.tgz#9cbe3711a8424e63a14043672650d00a6c191c91"
+  integrity sha512-MEHLfrdT/oc5gobeHwKXZsKB5M5l6YKDaNjK3NtdjWqgZ4GD2vvXQqyYJFsbhkBCkmFIAbE5G8Xg+QOvNbo3Tg==
 
 shikiji-transformers@^0.10.0:
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/shikiji-transformers/-/shikiji-transformers-0.10.0.tgz#73b205d36ef0a411e2b07b373c4828761fad826a"
-  integrity sha512-x9oYybeF/XOrIc6Mm8G1gU5ezunMxdgD4WwBTKrZ5tAmFFaNIWCjwZENgRt1uR4iMi0+pGH0g9bmrbraSC41nA==
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/shikiji-transformers/-/shikiji-transformers-0.10.1.tgz#a47f5c5a46387a24194bdf615a771f1d63f2c74a"
+  integrity sha512-C7m6CuH09Vp1ATm+tObVm5UkFSOuJZoJu2fhDLa3RyQd4rpInVNiCvcJl2g365tpqKw04nXrr6z1pjsB0W7Dog==
   dependencies:
-    shikiji "0.10.0"
+    shikiji "0.10.1"
 
-shikiji@0.10.0, shikiji@^0.10.0:
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/shikiji/-/shikiji-0.10.0.tgz#e7cc117c5a2ad5656a7bf6ea6c01e2b621a1552e"
-  integrity sha512-1dAzIOWbtM7B4Sem5BvE+CEdsebDsRA34SfCxM4qJ4PLgR73ZD92VEtNfbcoZ3xOLSqvtV0J9i4WpCgVsmQteg==
+shikiji@0.10.1, shikiji@^0.10.0:
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/shikiji/-/shikiji-0.10.1.tgz#f2140d3a6b8de8d04802cc6311a6190848745570"
+  integrity sha512-fUWWEOYD0JaDkXcQCWqpcO3S3SwvHO+olak9sRcXrlriX2hqNYCkgCGxB2fomlk4pe09F1DqHkw09ccKeZJTOg==
   dependencies:
-    shikiji-core "0.10.0"
+    shikiji-core "0.10.1"
 
 source-map-js@^1.0.2:
   version "1.0.2"
