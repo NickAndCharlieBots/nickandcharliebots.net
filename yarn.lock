@@ -373,17 +373,17 @@
   resolved "https://registry.yarnpkg.com/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.13.2.tgz#851959c4c1c3c6647aba1f388198c8243aed6917"
   integrity sha512-7h7J2nokcdPePdKykd8wtc8QqqkqxIrUz7MHj6aNr8waBRU//NLDVnNjQnqQO6fqtjrtCdftpbTuOKAyrAQETQ==
 
-"@shikijs/core@1.2.2", "@shikijs/core@^1.2.0":
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/@shikijs/core/-/core-1.2.2.tgz#9993d6e73077f8246164546d2f78b949cae23b64"
-  integrity sha512-GXbTyNP6HlxpyWMR4eirW54Cxp84nVuivcV5hGVBgKnIl+UmD4AJgCX1uXuNRcFFAw58lB3HqryuezIc0iCLgw==
+"@shikijs/core@1.2.3", "@shikijs/core@^1.2.0":
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/@shikijs/core/-/core-1.2.3.tgz#551c257b6e1575ef0b87635c515dec134b32f611"
+  integrity sha512-SM+aiQVaEK2P53dEcsvhq9+LJPr0rzwezHbMQhHaSrPN4OlOB4vp1qTdhVEKfMg6atdq8s9ZotWW/CSCzWftwg==
 
 "@shikijs/transformers@^1.2.0":
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/@shikijs/transformers/-/transformers-1.2.2.tgz#38a5888842bb0cb8c973d6acd75a0f9db8fdec27"
-  integrity sha512-GL03TlMh9oBeBLU5pcYBKpZnZZVdXSJ4ec7EQ/uw9+NrVaHs6qTjVN8F/0mvKd+sXLbBga8XZWDdob5F5tx5lw==
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/@shikijs/transformers/-/transformers-1.2.3.tgz#e6539eb513c7460160bcef9a11570d01164748b0"
+  integrity sha512-7m63LXtBW9feqH4+dafLe92oXm/vs05e6qaN1w5/Byozaf+RCqzOj3/b2/wu7OzTgLe3O9PzIrO3FebkGJK26g==
   dependencies:
-    shiki "1.2.2"
+    shiki "1.2.3"
 
 "@types/estree@1.0.5":
   version "1.0.5"
@@ -715,12 +715,12 @@ rollup@^4.13.0:
     "@rollup/rollup-win32-x64-msvc" "4.13.2"
     fsevents "~2.3.2"
 
-shiki@1.2.2, shiki@^1.2.0:
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/shiki/-/shiki-1.2.2.tgz#b43632ad6f444da5501cebf804b34c20aa98b40a"
-  integrity sha512-nqazfFgrU+DBLqk4+WjmGQz8sVWkcUcGriHqSM2zGk0GhjirVz4FyJ3AABEx91OpjGiKpuKBg2diYfRfQG3Fbg==
+shiki@1.2.3, shiki@^1.2.0:
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/shiki/-/shiki-1.2.3.tgz#7da5c145205ce563245bd883d353a99ffa1e2a19"
+  integrity sha512-+v7lO5cJMeV2N2ySK4l+51YX3wTh5I49SLjAOs1ch1DbUfeEytU1Ac9KaZPoZJCVBGycDZ09OBQN5nbcPFc5FQ==
   dependencies:
-    "@shikijs/core" "1.2.2"
+    "@shikijs/core" "1.2.3"
 
 source-map-js@^1.0.2, source-map-js@^1.2.0:
   version "1.2.0"
