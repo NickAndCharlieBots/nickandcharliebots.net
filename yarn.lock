@@ -378,17 +378,17 @@
   resolved "https://registry.yarnpkg.com/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.18.0.tgz#5d694d345ce36b6ecf657349e03eb87297e68da4"
   integrity sha512-UOo5FdvOL0+eIVTgS4tIdbW+TtnBLWg1YBCcU2KWM7nuNwRz9bksDX1bekJJCpu25N1DVWaCwnT39dVQxzqS8g==
 
-"@shikijs/core@1.7.0", "@shikijs/core@^1.6.2":
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/@shikijs/core/-/core-1.7.0.tgz#fe4f276519ff224719c6373d66b29fc5ee771abd"
-  integrity sha512-O6j27b7dGmJbR3mjwh/aHH8Ld+GQvA0OQsNO43wKWnqbAae3AYXrhFyScHGX8hXZD6vX2ngjzDFkZY5srtIJbQ==
+"@shikijs/core@1.9.0", "@shikijs/core@^1.6.2":
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/@shikijs/core/-/core-1.9.0.tgz#ff717fef5e0e9882f0848272699fd8f04d6f9a07"
+  integrity sha512-cbSoY8P/jgGByG8UOl3jnP/CWg/Qk+1q+eAKWtcrU3pNoILF8wTsLB0jT44qUBV8Ce1SvA9uqcM9Xf+u3fJFBw==
 
 "@shikijs/transformers@^1.6.2":
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/@shikijs/transformers/-/transformers-1.7.0.tgz#382dbf222616171c78bbbaf87e496634ee153243"
-  integrity sha512-QX3TP+CS4yYLt4X4Dk7wT0MsC7yweTYHMAAKY+ay+uuR9yRdFae/h+hivny2O+YixJHfZl57xtiZfWSrHdyVhQ==
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/@shikijs/transformers/-/transformers-1.9.0.tgz#2c00687b86b805fc9e64d65317ddd3408b1a1a14"
+  integrity sha512-wo8dNbZtFtVhKtw8BnXIT/FDTGMwEdWcQSIRa78ou14JGkMYxSCBN942W5+IRUifP5BwVUWgkXBYX/M3FUFkeg==
   dependencies:
-    shiki "1.7.0"
+    shiki "1.9.0"
 
 "@types/estree@1.0.5":
   version "1.0.5"
@@ -466,18 +466,18 @@
     "@vue/shared" "3.4.29"
 
 "@vue/devtools-api@^7.2.1":
-  version "7.3.2"
-  resolved "https://registry.yarnpkg.com/@vue/devtools-api/-/devtools-api-7.3.2.tgz#65ff03b235a61cafc39b17322ee79551f8d2c88d"
-  integrity sha512-qFCm12te9rG0XWLCHm3x8TiZLULEP5s7Ruaadi5jAogwZ5qF7QH7tKc6yXZGV96uM+y1FUlbK+QwVbWgMfXEhQ==
+  version "7.3.3"
+  resolved "https://registry.yarnpkg.com/@vue/devtools-api/-/devtools-api-7.3.3.tgz#301eb4c1fe0153d7f5ffd9f99464356fa93ac67b"
+  integrity sha512-Q9SpC5puX+VZ8mAixoVHAYRgLij4e/MCEfXze4gScdtxQuemHq7/zEE0EsgiwSrISaxwNGooymU8UO78W2yA7Q==
   dependencies:
-    "@vue/devtools-kit" "^7.3.2"
+    "@vue/devtools-kit" "^7.3.3"
 
-"@vue/devtools-kit@^7.3.2":
-  version "7.3.2"
-  resolved "https://registry.yarnpkg.com/@vue/devtools-kit/-/devtools-kit-7.3.2.tgz#c75feb0e38122ba64834beebd7e370b6fa5c9277"
-  integrity sha512-ba60JnbeLPzhfF5j0BPDGn9q5Ma9dWUV5gtVNjD+zm5uRf7LW8saAGNRnxxkRA56HZFzSAnXRGADc7YMAdrm0w==
+"@vue/devtools-kit@^7.3.3":
+  version "7.3.3"
+  resolved "https://registry.yarnpkg.com/@vue/devtools-kit/-/devtools-kit-7.3.3.tgz#7e1549fb9685fc033e560e1f69a2245c79406f84"
+  integrity sha512-m+dFI57BrzKYPKq73mt4CJ5GWld5OLBseLHPHGVP7CaILNY9o1gWVJWAJeF8XtQ9LTiMxZSaK6NcBsFuxAhD0g==
   dependencies:
-    "@vue/devtools-shared" "^7.3.2"
+    "@vue/devtools-shared" "^7.3.3"
     birpc "^0.2.17"
     hookable "^5.5.3"
     mitt "^3.0.1"
@@ -485,10 +485,10 @@
     speakingurl "^14.0.1"
     superjson "^2.2.1"
 
-"@vue/devtools-shared@^7.3.2":
-  version "7.3.2"
-  resolved "https://registry.yarnpkg.com/@vue/devtools-shared/-/devtools-shared-7.3.2.tgz#db0281ed6c9cbe2588483e9bf3283a90f60d4e01"
-  integrity sha512-RpYfqStbzljD6zf9LPXF2T7kM3fMfepxJB5yjzyloFel5nEB49DUm4TeA426IH+hKvwjjRorZyh6CT1cG/H2Vw==
+"@vue/devtools-shared@^7.3.3":
+  version "7.3.3"
+  resolved "https://registry.yarnpkg.com/@vue/devtools-shared/-/devtools-shared-7.3.3.tgz#04460dda92187424ef9a4c9b11cf349eeefcafcd"
+  integrity sha512-JQTVDM1WE4RRAsHTZvAB7+jczdHcbHgNUU/MWSIx5sV7FzCmnyWETPQ7K4/Y477weqT5xbybtBaK/OpzdaCiBQ==
   dependencies:
     rfdc "^1.4.1"
 
@@ -741,12 +741,12 @@ rollup@^4.13.0:
     "@rollup/rollup-win32-x64-msvc" "4.18.0"
     fsevents "~2.3.2"
 
-shiki@1.7.0, shiki@^1.6.2:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/shiki/-/shiki-1.7.0.tgz#de220937e9f91ba695fb2b23b4f4ddc9a393b320"
-  integrity sha512-H5pMn4JA7ayx8H0qOz1k2qANq6mZVCMl1gKLK6kWIrv1s2Ial4EmD4s4jE8QB5Dw03d/oCQUxc24sotuyR5byA==
+shiki@1.9.0, shiki@^1.6.2:
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/shiki/-/shiki-1.9.0.tgz#e4d3a044d9c746aefbea47615e83323fdc3dc361"
+  integrity sha512-i6//Lqgn7+7nZA0qVjoYH0085YdNk4MC+tJV4bo+HgjgRMJ0JmkLZzFAuvVioJqLkcGDK5GAMpghZEZkCnwxpQ==
   dependencies:
-    "@shikijs/core" "1.7.0"
+    "@shikijs/core" "1.9.0"
 
 source-map-js@^1.2.0:
   version "1.2.0"
