@@ -399,19 +399,19 @@
   resolved "https://registry.yarnpkg.com/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.20.0.tgz#601fffee719a1e8447f908aca97864eec23b2784"
   integrity sha512-aJ1EJSuTdGnM6qbVC4B5DSmozPTqIag9fSzXRNNo+humQLG89XpPgdt16Ia56ORD7s+H8Pmyx44uczDQ0yDzpg==
 
-"@shikijs/core@1.13.0", "@shikijs/core@^1.13.0":
-  version "1.13.0"
-  resolved "https://registry.yarnpkg.com/@shikijs/core/-/core-1.13.0.tgz#ffbdf8d27ce5783d97b979659194367e06b63af7"
-  integrity sha512-Mj5NVfbAXcD1GnwOTSPl8hBn/T8UDpfFQTptp+p41n/CbUcJtOq98WaRD7Lz3hCglYotUTHUWtzu3JhK6XlkAA==
+"@shikijs/core@1.14.1", "@shikijs/core@^1.13.0":
+  version "1.14.1"
+  resolved "https://registry.yarnpkg.com/@shikijs/core/-/core-1.14.1.tgz#008f1c4a20ff83fd1672d9e31d76b687862f7511"
+  integrity sha512-KyHIIpKNaT20FtFPFjCQB5WVSTpLR/n+jQXhWHWVUMm9MaOaG9BGOG0MSyt7yA4+Lm+4c9rTc03tt3nYzeYSfw==
   dependencies:
     "@types/hast" "^3.0.4"
 
 "@shikijs/transformers@^1.13.0":
-  version "1.13.0"
-  resolved "https://registry.yarnpkg.com/@shikijs/transformers/-/transformers-1.13.0.tgz#630296ff777b8e5bb0e11cc48a01b1877ca9dc47"
-  integrity sha512-51aLIT6a93rVGoTxl2+p6hb7ILbTA4p/unoibEAjnPMzHto4cqxhuHyDVgtQur5ANpGsL3ihSGKaZDrpcWH8vQ==
+  version "1.14.1"
+  resolved "https://registry.yarnpkg.com/@shikijs/transformers/-/transformers-1.14.1.tgz#d93710768fbedd4b80f32c4310dc6e5e6f169798"
+  integrity sha512-JJqL8QBVCJh3L61jqqEXgFq1cTycwjcGj7aSmqOEsbxnETM9hRlaB74QuXvY/fVJNjbNt8nvWo0VwAXKvMSLRg==
   dependencies:
-    shiki "1.13.0"
+    shiki "1.14.1"
 
 "@types/estree@1.0.5":
   version "1.0.5"
@@ -776,12 +776,12 @@ rollup@^4.13.0:
     "@rollup/rollup-win32-x64-msvc" "4.20.0"
     fsevents "~2.3.2"
 
-shiki@1.13.0, shiki@^1.13.0:
-  version "1.13.0"
-  resolved "https://registry.yarnpkg.com/shiki/-/shiki-1.13.0.tgz#129986ad475ad4a962b5c681eabb843e38dde65e"
-  integrity sha512-e0dWfnONbEv6xl7FJy3XIhsVHQ/65XHDZl92+6H9+4xWjfdo7pmkqG7Kg47KWtDiEtzM5Z+oEfb4vtRvoZ/X9w==
+shiki@1.14.1, shiki@^1.13.0:
+  version "1.14.1"
+  resolved "https://registry.yarnpkg.com/shiki/-/shiki-1.14.1.tgz#617e62dfbe3a083e46111e22086044fbd7644786"
+  integrity sha512-FujAN40NEejeXdzPt+3sZ3F2dx1U24BY2XTY01+MG8mbxCiA2XukXdcbyMyLAHJ/1AUUnQd1tZlvIjefWWEJeA==
   dependencies:
-    "@shikijs/core" "1.13.0"
+    "@shikijs/core" "1.14.1"
     "@types/hast" "^3.0.4"
 
 source-map-js@^1.2.0:
