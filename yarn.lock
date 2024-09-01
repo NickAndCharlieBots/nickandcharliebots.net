@@ -399,19 +399,19 @@
   resolved "https://registry.yarnpkg.com/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.21.2.tgz#e4291e3c1bc637083f87936c333cdbcad22af63b"
   integrity sha512-6UUxd0+SKomjdzuAcp+HAmxw1FlGBnl1v2yEPSabtx4lBfdXHDVsW7+lQkgz9cNFJGY3AWR7+V8P5BqkD9L9nA==
 
-"@shikijs/core@1.15.1", "@shikijs/core@^1.13.0":
-  version "1.15.1"
-  resolved "https://registry.yarnpkg.com/@shikijs/core/-/core-1.15.1.tgz#05485c742e7657a84a7a28b0897398555caf1327"
-  integrity sha512-DwkQTDNlhr7PwZMJswdvWIKts+2mqjIn8txByr88fhBRBtUSsIQR43RRoATjRrbeu4hyNTSTMBdxgp/vlxnxvA==
+"@shikijs/core@1.15.2", "@shikijs/core@^1.13.0":
+  version "1.15.2"
+  resolved "https://registry.yarnpkg.com/@shikijs/core/-/core-1.15.2.tgz#421791dd98a9c39e1b26d0db26780e6ecb08451c"
+  integrity sha512-hi6XZuwHYn6bU4wtXZxST8ynM55aiU2+rVU9aPIrSxqKmEKl4d65puwGsggwcZWTET+7zGXKe7AUj46iQ8Aq8w==
   dependencies:
     "@types/hast" "^3.0.4"
 
 "@shikijs/transformers@^1.13.0":
-  version "1.15.1"
-  resolved "https://registry.yarnpkg.com/@shikijs/transformers/-/transformers-1.15.1.tgz#c0204d85e48ba4ca7e6d15901657d9f29d34b37c"
-  integrity sha512-PPWwXJTO8Zd04Y9Xy3zfBUN4K+kZ8fkpAnMXOJWBt4FjhyMQruVEOGuUDWtVO9TbMM26pFCXlpnXeJabkxGC5g==
+  version "1.15.2"
+  resolved "https://registry.yarnpkg.com/@shikijs/transformers/-/transformers-1.15.2.tgz#6d8b0d50431f4113a9775e9f70745ef8fca27926"
+  integrity sha512-J+3kFFXb4hN3esMzdDBGb2GhBsMPX8UC3o/U9G4Jognb8k0ADQAzZkShTARwS76O0g2VFoMu4vnIchiVE6x/uw==
   dependencies:
-    shiki "1.15.1"
+    shiki "1.15.2"
 
 "@types/estree@1.0.5":
   version "1.0.5"
@@ -733,9 +733,9 @@ picocolors@^1.0.1:
   integrity sha512-anP1Z8qwhkbmu7MFP5iTt+wQKXgwzf7zTyGlcdzabySa9vd0Xt392U0rVmz9poOaBj0uHJKyyo9/upk0HrEQew==
 
 postcss@^8.4.40, postcss@^8.4.41:
-  version "8.4.41"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.41.tgz#d6104d3ba272d882fe18fc07d15dc2da62fa2681"
-  integrity sha512-TesUflQ0WKZqAvg52PWL6kHgLKP6xB6heTOdoYM0Wt2UHyxNa4K25EZZMgKns3BH1RLVbZCREPpLY0rhnNoHVQ==
+  version "8.4.42"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.42.tgz#0954e9b075f961fb2790d6b807b1f24e7334dbea"
+  integrity sha512-hywKUQB9Ra4dR1mGhldy5Aj1X3MWDSIA1cEi+Uy0CjheLvP6Ual5RlwMCh8i/X121yEDLDIKBsrCQ8ba3FDMfQ==
   dependencies:
     nanoid "^3.3.7"
     picocolors "^1.0.1"
@@ -776,12 +776,12 @@ rollup@^4.20.0:
     "@rollup/rollup-win32-x64-msvc" "4.21.2"
     fsevents "~2.3.2"
 
-shiki@1.15.1, shiki@^1.13.0:
-  version "1.15.1"
-  resolved "https://registry.yarnpkg.com/shiki/-/shiki-1.15.1.tgz#074dcaa9278b54c46e82abcd3f254317e39b2ed7"
-  integrity sha512-QPtVwbafyHmH9Z90iEZgZL4BhqFh5RMnRq2Bic0Cqp5lgbpbkn4nNmed0zzXbh/yPFs2PpkCviM9qcrbN+9zAA==
+shiki@1.15.2, shiki@^1.13.0:
+  version "1.15.2"
+  resolved "https://registry.yarnpkg.com/shiki/-/shiki-1.15.2.tgz#345edce5802512ee402f1cbb9e8d19e335a0dc20"
+  integrity sha512-M+7QZQZiZw/cZeizrC/yryG3eeG8pTUhu7ZaHxVyzPNFIRIlN46YBciquoNPCiXiwLnx6JB62f3lSuSYQrus1w==
   dependencies:
-    "@shikijs/core" "1.15.1"
+    "@shikijs/core" "1.15.2"
     "@types/hast" "^3.0.4"
 
 source-map-js@^1.2.0:
