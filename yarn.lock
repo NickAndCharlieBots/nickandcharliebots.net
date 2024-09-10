@@ -399,25 +399,27 @@
   resolved "https://registry.yarnpkg.com/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.21.2.tgz#e4291e3c1bc637083f87936c333cdbcad22af63b"
   integrity sha512-6UUxd0+SKomjdzuAcp+HAmxw1FlGBnl1v2yEPSabtx4lBfdXHDVsW7+lQkgz9cNFJGY3AWR7+V8P5BqkD9L9nA==
 
-"@shikijs/core@1.16.2", "@shikijs/core@^1.13.0":
-  version "1.16.2"
-  resolved "https://registry.yarnpkg.com/@shikijs/core/-/core-1.16.2.tgz#67182b0eb7e2c3aedcf47e24acb893bca352c869"
-  integrity sha512-XSVH5OZCvE4WLMgdoBqfPMYmGHGmCC3OgZhw0S7KcSi2XKZ+5oHGe71GFnTljgdOxvxx5WrRks6QoTLKrl1eAA==
+"@shikijs/core@1.16.3", "@shikijs/core@^1.13.0":
+  version "1.16.3"
+  resolved "https://registry.yarnpkg.com/@shikijs/core/-/core-1.16.3.tgz#082b53928bf201a8d7cfbe0b5540dc1c609d0a5e"
+  integrity sha512-yETIvrETCeC39gSPIiSADmjri9FwKmxz0QvONMtTIUYlKZe90CJkvcjPksayC2VQOtzOJonEiULUa8v8crUQvA==
   dependencies:
     "@shikijs/vscode-textmate" "^9.2.0"
     "@types/hast" "^3.0.4"
+    oniguruma-to-js "0.3.3"
+    regex "4.3.2"
 
 "@shikijs/transformers@^1.13.0":
-  version "1.16.2"
-  resolved "https://registry.yarnpkg.com/@shikijs/transformers/-/transformers-1.16.2.tgz#1b090520b79188ba5f06d3c11404438231669971"
-  integrity sha512-AR6ANiKwi1dJr5g/W0L+Su4PoHurkHLgtNmesbOFOPGKNQC2BeGU/Z2Ghkl+cUF5PfE+UeLkxUwzpE6H37hTSg==
+  version "1.16.3"
+  resolved "https://registry.yarnpkg.com/@shikijs/transformers/-/transformers-1.16.3.tgz#ac5806ddce02b1c09d56df33e8c3e9753f3d7ad8"
+  integrity sha512-bu4IcpUWmch4NvIWQgyMk2r9sH1XNZjUFgu56d3TPD1wLmBB/krctzVYgmurQ45X4dBEpNZdNvdG3v5B27taSw==
   dependencies:
-    shiki "1.16.2"
+    shiki "1.16.3"
 
 "@shikijs/vscode-textmate@^9.2.0":
-  version "9.2.0"
-  resolved "https://registry.yarnpkg.com/@shikijs/vscode-textmate/-/vscode-textmate-9.2.0.tgz#a8405c86b4ea3e1cec779319e7d5c4e67283b2db"
-  integrity sha512-5FinaOp6Vdh/dl4/yaOTh0ZeKch+rYS8DUb38V3GMKYVkdqzxw53lViRKUYkVILRiVQT7dcPC7VvAKOR73zVtQ==
+  version "9.2.2"
+  resolved "https://registry.yarnpkg.com/@shikijs/vscode-textmate/-/vscode-textmate-9.2.2.tgz#24571f50625c7cd075f9efe0def8b9d2c0930ada"
+  integrity sha512-TMp15K+GGYrWlZM8+Lnj9EaHEFmOen0WJBrfa17hF7taDOYthuPPV0GWzfd/9iMij0akS/8Yw2ikquH7uVi/fg==
 
 "@types/estree@1.0.5":
   version "1.0.5"
@@ -728,6 +730,11 @@ nanoid@^3.3.7:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.7.tgz#d0c301a691bc8d54efa0a2226ccf3fe2fd656bd8"
   integrity sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==
 
+oniguruma-to-js@0.3.3:
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/oniguruma-to-js/-/oniguruma-to-js-0.3.3.tgz#3527f7e0fb9e5259c10962a7b015f28c602280dd"
+  integrity sha512-m90/WEhgs8g4BxG37+Nu3YrMfJDs2YXtYtIllhsEPR+wP3+K4EZk6dDUvy2v2K4MNFDDOYKL4/yqYPXDqyozTQ==
+
 perfect-debounce@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/perfect-debounce/-/perfect-debounce-1.0.0.tgz#9c2e8bc30b169cc984a58b7d5b28049839591d2a"
@@ -751,6 +758,11 @@ preact@^10.0.0:
   version "10.23.2"
   resolved "https://registry.yarnpkg.com/preact/-/preact-10.23.2.tgz#52deec92796ae0f0cc6b034d9c66e0fbc1b837dc"
   integrity sha512-kKYfePf9rzKnxOAKDpsWhg/ysrHPqT+yQ7UW4JjdnqjFIeNUnNcEJvhuA8fDenxAGWzUqtd51DfVg7xp/8T9NA==
+
+regex@4.3.2:
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/regex/-/regex-4.3.2.tgz#a68a68c9b337a77bf4ce4ed0b4b1a49d97cb3b7b"
+  integrity sha512-kK/AA3A9K6q2js89+VMymcboLOlF5lZRCYJv3gzszXFHBr6kO6qLGzbm+UIugBEV8SMMKCTR59txoY6ctRHYVw==
 
 rfdc@^1.4.1:
   version "1.4.1"
@@ -782,12 +794,12 @@ rollup@^4.20.0:
     "@rollup/rollup-win32-x64-msvc" "4.21.2"
     fsevents "~2.3.2"
 
-shiki@1.16.2, shiki@^1.13.0:
-  version "1.16.2"
-  resolved "https://registry.yarnpkg.com/shiki/-/shiki-1.16.2.tgz#6cb6ec67bfd518d720840b9fafc714419253e0e0"
-  integrity sha512-gSym0hZf5a1U0iDPsdoOAZbvoi+e0c6c3NKAi03FoSLTm7oG20tum29+gk0wzzivOasn3loxfGUPT+jZXIUbWg==
+shiki@1.16.3, shiki@^1.13.0:
+  version "1.16.3"
+  resolved "https://registry.yarnpkg.com/shiki/-/shiki-1.16.3.tgz#d78b0c644c2a46b25ec638a9a58861999bd3495c"
+  integrity sha512-GypUE+fEd06FqDs63LSAVlmq7WsahhPQU62cgZxGF+TJT5LjD2k7HTxXj4/CKOVuMM3+wWQ1t4Y5oooeJFRRBQ==
   dependencies:
-    "@shikijs/core" "1.16.2"
+    "@shikijs/core" "1.16.3"
     "@shikijs/vscode-textmate" "^9.2.0"
     "@types/hast" "^3.0.4"
 
