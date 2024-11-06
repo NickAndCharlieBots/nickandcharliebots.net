@@ -2,20 +2,20 @@
 # yarn lockfile v1
 
 
-"@algolia/autocomplete-core@1.9.3":
-  version "1.9.3"
-  resolved "https://registry.yarnpkg.com/@algolia/autocomplete-core/-/autocomplete-core-1.9.3.tgz#1d56482a768c33aae0868c8533049e02e8961be7"
-  integrity sha512-009HdfugtGCdC4JdXUbVJClA0q0zh24yyePn+KUGk3rP7j8FEe/m5Yo/z65gn6nP/cM39PxpzqKrL7A6fP6PPw==
+"@algolia/autocomplete-core@1.17.6":
+  version "1.17.6"
+  resolved "https://registry.yarnpkg.com/@algolia/autocomplete-core/-/autocomplete-core-1.17.6.tgz#63f4c2f21a215cb9968611f51a82d6017cd690df"
+  integrity sha512-lkDoW4I7h2kKlIgf3pUt1LqvxyYKkVyiypoGLlUnhPSnCpmeOwudM6rNq6YYsCmdQtnDQoW5lUNNuj6ASg3qeg==
   dependencies:
-    "@algolia/autocomplete-plugin-algolia-insights" "1.9.3"
-    "@algolia/autocomplete-shared" "1.9.3"
+    "@algolia/autocomplete-plugin-algolia-insights" "1.17.6"
+    "@algolia/autocomplete-shared" "1.17.6"
 
-"@algolia/autocomplete-plugin-algolia-insights@1.9.3":
-  version "1.9.3"
-  resolved "https://registry.yarnpkg.com/@algolia/autocomplete-plugin-algolia-insights/-/autocomplete-plugin-algolia-insights-1.9.3.tgz#9b7f8641052c8ead6d66c1623d444cbe19dde587"
-  integrity sha512-a/yTUkcO/Vyy+JffmAnTWbr4/90cLzw+CC3bRbhnULr/EM0fGNvM13oQQ14f2moLMcVDyAx/leczLlAOovhSZg==
+"@algolia/autocomplete-plugin-algolia-insights@1.17.6":
+  version "1.17.6"
+  resolved "https://registry.yarnpkg.com/@algolia/autocomplete-plugin-algolia-insights/-/autocomplete-plugin-algolia-insights-1.17.6.tgz#ff760852769e9f27a70f48f2c4e111fc93fd64e5"
+  integrity sha512-17NnaacuFzSWVuZu4NKzVeaFIe9Abpw8w+/gjc7xhZFtqj+GadufzodIdchwiB2eM2cDdiR3icW7gbNTB3K2YA==
   dependencies:
-    "@algolia/autocomplete-shared" "1.9.3"
+    "@algolia/autocomplete-shared" "1.17.6"
 
 "@algolia/autocomplete-preset-algolia@1.17.6":
   version "1.17.6"
@@ -28,11 +28,6 @@
   version "1.17.6"
   resolved "https://registry.yarnpkg.com/@algolia/autocomplete-shared/-/autocomplete-shared-1.17.6.tgz#ad951632b6d477d4ba9a68a347e1702d26009d58"
   integrity sha512-aq/3V9E00Tw2GC/PqgyPGXtqJUlVc17v4cn1EUhSc+O/4zd04Uwb3UmPm8KDaYQQOrkt1lwvCj2vG2wRE5IKhw==
-
-"@algolia/autocomplete-shared@1.9.3":
-  version "1.9.3"
-  resolved "https://registry.yarnpkg.com/@algolia/autocomplete-shared/-/autocomplete-shared-1.9.3.tgz#2e22e830d36f0a9cf2c0ccd3c7f6d59435b77dfa"
-  integrity sha512-Wnm9E4Ye6Rl6sTTqjoymD+l8DjSTHsHboVRYrKgEt8Q7UHm9nYbqhN/i0fhUYA3OAEH7WA8x3jfpnmJm3rKvaQ==
 
 "@algolia/client-abtesting@5.12.0":
   version "5.12.0"
@@ -175,28 +170,28 @@
     "@babel/helper-string-parser" "^7.25.9"
     "@babel/helper-validator-identifier" "^7.25.9"
 
-"@docsearch/css@3.6.3", "@docsearch/css@^3.6.2":
-  version "3.6.3"
-  resolved "https://registry.yarnpkg.com/@docsearch/css/-/css-3.6.3.tgz#d787cc9d27a7e67305fa47d668656eb2e64c4526"
-  integrity sha512-3uvbg8E7rhqE1C4oBAK3tGlS2qfhi9zpfZgH/yjDPF73vd9B41urVIKujF4rczcF4E3qs34SedhehiDJ4UdNBA==
+"@docsearch/css@3.7.0", "@docsearch/css@^3.6.2":
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/@docsearch/css/-/css-3.7.0.tgz#4886f7b598929c6df6572ab57a887915fc77e86e"
+  integrity sha512-1OorbTwi1eeDmr0v5t+ckSRlt1zM5GHjm92iIl3kUu7im3GHuP+csf6E0WBg8pdXQczTWP9J9+o9n+Vg6DH5cQ==
 
 "@docsearch/js@^3.6.2":
-  version "3.6.3"
-  resolved "https://registry.yarnpkg.com/@docsearch/js/-/js-3.6.3.tgz#85f01a64f18e866a557a8460f1dc0f154a2a380a"
-  integrity sha512-2mBFomaN6VijyQQGwieERDu9GeE0hlv9TQRZBTOYsPQW7/vqtd4hnHEkbBbaBRiS4PYcy+UhikbMuDExJs63UA==
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/@docsearch/js/-/js-3.7.0.tgz#571ae2ee58b0ba998ed21c8cf3d3ef4d0e950785"
+  integrity sha512-ScfqOIKrSr8SImbpxVaD59xc/bytbL8QEM2GUpe3aICmoICflWp5DyTRzAdFky16HY+yEOAVZXt3COXQ1NOCWw==
   dependencies:
-    "@docsearch/react" "3.6.3"
+    "@docsearch/react" "3.7.0"
     preact "^10.0.0"
 
-"@docsearch/react@3.6.3":
-  version "3.6.3"
-  resolved "https://registry.yarnpkg.com/@docsearch/react/-/react-3.6.3.tgz#326a0811306060bfb481df3cd0db51adaa9f737c"
-  integrity sha512-2munr4uBuZq1PG+Ge+F+ldIdxb3Wi8OmEIv2tQQb4RvEvvph+xtQkxwHzVIEnt5s+HecwucuXwB+3JhcZboFLg==
+"@docsearch/react@3.7.0":
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/@docsearch/react/-/react-3.7.0.tgz#db3501013c5949d5547c2c0f254ddbbcdfcbc636"
+  integrity sha512-8e6tdDfkYoxafEEPuX5eE1h9cTkLvhe4KgoFkO5JCddXSQONnN1FHcDZRI4r8894eMpbYq6rdJF0dVYh8ikwNQ==
   dependencies:
-    "@algolia/autocomplete-core" "1.9.3"
+    "@algolia/autocomplete-core" "1.17.6"
     "@algolia/autocomplete-preset-algolia" "1.17.6"
-    "@docsearch/css" "3.6.3"
-    algoliasearch "^5.11.0"
+    "@docsearch/css" "3.7.0"
+    algoliasearch "^5.12.0"
 
 "@esbuild/aix-ppc64@0.21.5":
   version "0.21.5"
@@ -314,9 +309,9 @@
   integrity sha512-tQd/1efJuzPC6rCFwEvLtci/xNFcTZknmXs98FYDfGE4wP9ClFV98nyKrzJKVPMhdDnjzLhdUyMX4PsQAPjwIw==
 
 "@iconify-json/simple-icons@^1.2.10":
-  version "1.2.10"
-  resolved "https://registry.yarnpkg.com/@iconify-json/simple-icons/-/simple-icons-1.2.10.tgz#74bf943822d3626ff14542e6f09f754b0f38675e"
-  integrity sha512-9OK1dsSjXlH36lhu5n+BlSoXuqFjHUErGLtNdzHpq0vHq4YFBuGYWtZ+vZTHLreRQ8ijPRv/6EsgkV+nf6AReQ==
+  version "1.2.11"
+  resolved "https://registry.yarnpkg.com/@iconify-json/simple-icons/-/simple-icons-1.2.11.tgz#076096af7dd95ae09f09bc23fadb261f4e3978ce"
+  integrity sha512-AHCGDtBRqP+JzAbBzgO8uN/08CXxEmuaC6lQQZ3b5burKhRU12AJnJczwbUw2K5Mb/U85EpSUNhYMG3F28b8NA==
   dependencies:
     "@iconify/types" "*"
 
@@ -569,18 +564,18 @@
     "@vue/shared" "3.5.12"
 
 "@vue/devtools-api@^7.5.4":
-  version "7.6.2"
-  resolved "https://registry.yarnpkg.com/@vue/devtools-api/-/devtools-api-7.6.2.tgz#9beb95e3faba24aa89b8237f4ac713210a28b6f7"
-  integrity sha512-NCT0ujqlwAhoFvCsAG7G5qS8w/A/dhvFSt2BhmNxyqgpYDrf9CG1zYyWLQkE3dsZ+5lCT6ULUic2VKNaE07Vzg==
+  version "7.6.3"
+  resolved "https://registry.yarnpkg.com/@vue/devtools-api/-/devtools-api-7.6.3.tgz#dba719d43119c048b9d640673dec9424bf2bb460"
+  integrity sha512-H2TRzFA9hNezdtM6I0y3RCMhIg5T3gib/p9qI2IAS8gB9tvkAv4JZHAZZl5BZHhO7btuHkvHzU5qpO/vdsjYMg==
   dependencies:
-    "@vue/devtools-kit" "^7.6.2"
+    "@vue/devtools-kit" "^7.6.3"
 
-"@vue/devtools-kit@^7.6.2":
-  version "7.6.2"
-  resolved "https://registry.yarnpkg.com/@vue/devtools-kit/-/devtools-kit-7.6.2.tgz#17f1584c74c0e30fa2086a89e65acbce3fc47945"
-  integrity sha512-k61BxHRmcTtIQZFouF9QWt9nCCNtSdw12lhg8VNtHq5/XOBGD+ewiK27a40UJ8UPYoCJvi80hbvbYr5E/Zeu1g==
+"@vue/devtools-kit@^7.6.3":
+  version "7.6.3"
+  resolved "https://registry.yarnpkg.com/@vue/devtools-kit/-/devtools-kit-7.6.3.tgz#df4d43376d1c729793ef8f9033ad48525a707349"
+  integrity sha512-ETsFc8GlOp04rSFN79tB2TpVloWfsSx9BoCSElV3w3CaJTSBfz42KsIi5Ka+dNTJs1jY7QVLTDeoBmUGgA9h2A==
   dependencies:
-    "@vue/devtools-shared" "^7.6.2"
+    "@vue/devtools-shared" "^7.6.3"
     birpc "^0.2.19"
     hookable "^5.5.3"
     mitt "^3.0.1"
@@ -588,10 +583,10 @@
     speakingurl "^14.0.1"
     superjson "^2.2.1"
 
-"@vue/devtools-shared@^7.6.2":
-  version "7.6.2"
-  resolved "https://registry.yarnpkg.com/@vue/devtools-shared/-/devtools-shared-7.6.2.tgz#585769040c3a84a641087fb722377a526b70b59d"
-  integrity sha512-lcjyJ7hCC0W0kNwnCGMLVTMvDLoZgjcq9BvboPgS+6jQyDul7fpzRSKTGtGhCHoxrDox7qBAKGbAl2Rcf7GE1A==
+"@vue/devtools-shared@^7.6.3":
+  version "7.6.3"
+  resolved "https://registry.yarnpkg.com/@vue/devtools-shared/-/devtools-shared-7.6.3.tgz#c8c55cf4d8d50b9b5c45e3c87ab054c131f2a37d"
+  integrity sha512-wJW5QF27i16+sNQIaes8QoEZg1eqEgF83GkiPUlEQe9k7ZoHXHV7PRrnrxOKem42sIHPU813J2V/ZK1uqTJe6g==
   dependencies:
     rfdc "^1.4.1"
 
@@ -664,7 +659,7 @@
   dependencies:
     vue-demi ">=0.14.10"
 
-algoliasearch@^5.11.0:
+algoliasearch@^5.12.0:
   version "5.12.0"
   resolved "https://registry.yarnpkg.com/algoliasearch/-/algoliasearch-5.12.0.tgz#2e822a7916d691e55058ea7dba277d5110969dd0"
   integrity sha512-psGBRYdGgik8I6m28iAB8xpubvjEt7UQU+w5MAJUA2324WHiGoHap5BPkkjB14rMaXeRts6pmOsrVIglGyOVwg==
